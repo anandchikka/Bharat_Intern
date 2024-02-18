@@ -1,7 +1,7 @@
 # Bharat_Intern
 Projects executed as a part of Internship provided by Bharat Intern.
 
-Note: The below projects are executed in Google Collaboratory file.
+Note: The projects are executed in Google Collaboratory file.
 
 Project 1:
   Title: SMS Classifier 
